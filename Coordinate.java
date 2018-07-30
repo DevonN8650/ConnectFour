@@ -1,4 +1,4 @@
-package org.mpsomaha.ConnectFour;
+package com.midwestoxidation.ConnectFour;
 import java.util.*;
 public class Coordinate
 {
