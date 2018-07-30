@@ -1,0 +1,68 @@
+package org.mpsomaha.ConnectFour;
+import java.util.*;
+import java.io.*;
+import java.lang.*;
+
+public class Logic
+{
+	public Logic()
+{
+
+}
+
+public int getBoardSize()
+{
+// gets the desired board size from the user
+}
+ 
+public void printBoard()
+{
+//prints the contents of board
+} 
+
+public void startGame()
+{
+//initializes (populates) the board
+}
+
+public int playerCount()
+{
+//Asks the user if they want to play a 1 or 2 player game
+}
+
+public void onePlayer()
+{
+	//Handles logic for one player game with AI
+}
+	
+	public void twoPlayer()
+{
+		//Handles logic for two player game
+	}
+
+	public void clearScreen()
+{
+//clears all text from console
+	}
+	
+	public void getMove(boolean player)
+{
+		//Handles the moves for each player in a 2 player gaem
+}
+
+public boolean checkWin()
+{
+	//checks if the game is over due to a win
+}
+
+public boolean checkAvailableMoves()
+{
+	//checks if there are available moves in da gaem
+} 
+
+public void askAgain()
+{
+	//displays da score
+	//asks da player if they want to play da gaem ag a n e
+}
+}
